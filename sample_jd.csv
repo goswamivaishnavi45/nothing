@@ -1,0 +1,3 @@
+job_id,title,description,location,salary_range,currency,skills,apply_url,company,company_url,level,created_at
+job001,Data Scientist,Analyze data and build ML models.,"San Francisco, CA",120k-140k,USD,"Python, Machine Learning, SQL",https://apply.com/job1,Data Inc,https://datainc.com,senior,2025-05-28T07:36:22Z
+job002,Backend Engineer,Develop backend services.,"New York, NY",100k-130k,USD,"Java, SQL",https://apply.com/job2,Tech Corp,https://techcorp.com,mid,2025-05-28T07:40:00Z
