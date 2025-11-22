@@ -1,0 +1,10 @@
+type,fromId,skillName,level
+HAS_SKILL,P1,React,Expert
+HAS_SKILL,P1,JavaScript,Advanced
+HAS_SKILL,P2,Python,Intermediate
+HAS_SKILL,P2,Machine Learning,Expert
+HAS_SKILL,P3,React,Beginner
+REQUIRES_SKILL,J1,React,Mandatory
+REQUIRES_SKILL,J1,JavaScript,Mandatory
+REQUIRES_SKILL,J2,Python,Mandatory
+REQUIRES_SKILL,J2,Machine Learning,NiceToHave
